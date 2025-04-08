@@ -1,0 +1,7 @@
+__pycache__
+result
+test
+textures
+train
+*.json
+*.csv

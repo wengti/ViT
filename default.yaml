@@ -1,0 +1,20 @@
+seed  : 1111
+img_h : 224
+img_w : 224
+
+in_channels: 3
+patch_h : 16
+patch_w : 16
+embedding_dim : 128
+patch_embedding_dropout : 0.1
+
+num_heads : 8
+head_dim : 64
+att_map_dropout : 0.1
+
+transformer_hidden_dim : 256
+transformer_dropout : 0.1
+num_transformer_blocks : 6
+num_classes: 10
+
+task_name : 'default'
