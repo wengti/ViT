@@ -1,6 +1,6 @@
 # Vision Transformer (ViT)
 
-## Credits & Acknoledgements
+## Credits & Acknowledgements
 This project is a reimplementaion of [ViT-PyTorch] by [explainingai-code] (https://github.com/explainingai-code/VIT-Pytorch)
 The code has been rewritten from scratch while maintaining the core concepts and functionalities of the original implementation.
 
